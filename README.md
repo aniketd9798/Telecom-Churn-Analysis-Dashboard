@@ -1,7 +1,7 @@
 # Telecom Customer Churn Analysis Dashboard (Power BI)
 
 This project presents a complete Telecom Customer Churn Analysis built using Power BI.  
-It helps identify why customers Churn Rate , which groups are at high risk, and what business actions can reduce churn.
+It helps identify "customers Churn Rate","which groups are at high risk","and what business actions can reduce churn".
 
 ## Project Files Included
 Telecom churn Analysis.pbix — Power BI dashboard  
